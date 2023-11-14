@@ -46,8 +46,8 @@ def show_banner():
 ██  ██ ██ ██    ██  ██  ██  ██ 
 ██   ████  ██████    ████   ██ 
                
-                {b}Leetmailer v23.05.24{z}
-                Made by {b}Thebigcorp{z}
+                {b}Novimailer v23.05.24{z}
+                Made by {b}Georgio Themen{z}
 	"""
 	for line in banner.splitlines():
 		print(line)
