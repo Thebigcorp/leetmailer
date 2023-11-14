@@ -46,7 +46,7 @@ def show_banner():
 ██  ██ ██ ██    ██  ██  ██  ██ 
 ██   ████  ██████    ████   ██ 
                
-                {b}Novimailer v23.05.24{z}
+                {b}Novimailer vL33T{z}
                 Made by {b}Georgio Themen{z}
 	"""
 	for line in banner.splitlines():
